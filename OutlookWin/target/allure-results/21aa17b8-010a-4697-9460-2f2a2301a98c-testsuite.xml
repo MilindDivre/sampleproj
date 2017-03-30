@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1483002770474" stop="1483002784306" version="1.4.4">
+    <name>Suite</name>
+    <title>Suite : Outlook Winium</title>
+    <test-cases>
+        <test-case start="1483002770569" stop="1483002784204" status="passed">
+            <name>test</name>
+            <title>Outllok Winium</title>
+            <steps>
+                <step start="1483002772672" stop="1483002772685" status="passed">
+                    <name>logReporter[Initiated Winium Driver, true]</name>
+                    <title>Initiated Winium Driver</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1483002778455" stop="1483002778455" status="passed">
+                    <name>logReporter[Sucessfully clicked on new mail button, true]</name>
+                    <title>Sucessfully clicked on new mail button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1483002780950" stop="1483002780950" status="passed">
+                    <name>logReporter[Entered To , true]</name>
+                    <title>Entered To </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1483002783476" stop="1483002783476" status="passed">
+                    <name>logReporter[Clicked on Send Button, true]</name>
+                    <title>Clicked on Send Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="N7Z0SFY1"/>
+                <label name="thread" value="7500@N7Z0SFY1.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

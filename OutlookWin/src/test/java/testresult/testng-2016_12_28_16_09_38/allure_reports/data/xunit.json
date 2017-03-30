@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1482941388281,
+    "stop" : 1482941392934,
+    "duration" : 4653
+  },
+  "testSuites" : [ {
+    "uid" : "66637672333749b1",
+    "name" : "Suite",
+    "title" : "Suite : Outlook Winium",
+    "time" : {
+      "start" : 1482941388281,
+      "stop" : 1482941392934,
+      "duration" : 4653
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "eab898d140b57fc6",
+      "name" : "test",
+      "title" : "Outllok Winium",
+      "time" : {
+        "start" : 1482941388414,
+        "stop" : 1482941392563,
+        "duration" : 4149
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

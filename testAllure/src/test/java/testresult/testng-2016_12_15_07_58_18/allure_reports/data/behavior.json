@@ -1,0 +1,81 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 5,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 2
+    },
+    "stories" : [ {
+      "uid" : "5f3b024b0da60efe9ecb322fd34a2604",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 5,
+        "passed" : 3,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 2
+      },
+      "testCases" : [ {
+        "uid" : "1c8a1bdfac455df6",
+        "name" : "testURL",
+        "title" : "Test URL",
+        "time" : {
+          "start" : 1481788351751,
+          "stop" : 1481788367594,
+          "duration" : 15843
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "91acbbe92d307e72",
+        "name" : "testURL",
+        "title" : "Test URL",
+        "time" : {
+          "start" : 1481783808110,
+          "stop" : 1481783858928,
+          "duration" : 50818
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "3c27279397a09818",
+        "name" : "testURL",
+        "title" : "Test URL",
+        "time" : {
+          "start" : 1481783683000,
+          "stop" : 1481783733470,
+          "duration" : 50470
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "1c2ef4e6eecc7f9b",
+        "name" : "testURL",
+        "title" : "Test URL",
+        "time" : {
+          "start" : 1481784174510,
+          "stop" : 1481784194757,
+          "duration" : 20247
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "b706740e826617ad",
+        "name" : "testURL",
+        "title" : "Test URL",
+        "time" : {
+          "start" : 1481788550153,
+          "stop" : 1481788560517,
+          "duration" : 10364
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "c021a9d504bba954",
+    "name" : "test",
+    "title" : "Outllok Winium",
+    "time" : {
+      "start" : 1482941309656,
+      "stop" : 1482941315752,
+      "duration" : 6096
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

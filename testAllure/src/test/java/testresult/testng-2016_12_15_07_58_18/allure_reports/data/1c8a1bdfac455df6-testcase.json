@@ -1,0 +1,40 @@
+{
+  "uid" : "1c8a1bdfac455df6",
+  "name" : "testURL",
+  "title" : "Test URL",
+  "time" : {
+    "start" : 1481788351751,
+    "stop" : 1481788367594,
+    "duration" : 15843
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "N7Z0SFY1"
+  }, {
+    "name" : "thread",
+    "value" : "2796@N7Z0SFY1.main"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

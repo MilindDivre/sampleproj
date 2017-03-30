@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/debugger-app-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/fontbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/pdfbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/pdfbox-app-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/pdfbox-debugger-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/pdfbox-tools-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/preflight-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/preflight-app-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/PDFDemo/pdfDemoJars/xmpbox-2.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

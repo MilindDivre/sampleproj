@@ -1,0 +1,40 @@
+{
+  "uid" : "c021a9d504bba954",
+  "name" : "test",
+  "title" : "Outllok Winium",
+  "time" : {
+    "start" : 1482941309656,
+    "stop" : 1482941315752,
+    "duration" : 6096
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "N7Z0SFY1"
+  }, {
+    "name" : "thread",
+    "value" : "6884@N7Z0SFY1.main"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

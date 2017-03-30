@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step >> Initiated Winium Driver]]>
+    </line>
+    <line>
+      <![CDATA[Step >> Sucessfully clicked on new mail button]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49497" started-at="2016-12-29T09:08:13Z" finished-at="2016-12-29T09:09:02Z">
+    <groups>
+    </groups>
+    <test name="Outlook Winium" duration-ms="49497" started-at="2016-12-29T09:08:13Z" finished-at="2016-12-29T09:09:02Z">
+      <class name="testWin.OutlookWinum">
+        <test-method status="PASS" signature="test()[pri:0, instance:testWin.OutlookWinum@7ce4de34]" name="test" duration-ms="49413" started-at="2016-12-29T14:38:13Z" finished-at="2016-12-29T14:39:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step >> Initiated Winium Driver]]>
+            </line>
+            <line>
+              <![CDATA[Step >> Sucessfully clicked on new mail button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testWin.OutlookWinum -->
+    </test> <!-- Outlook Winium -->
+  </suite> <!-- Suite -->
+</testng-results>

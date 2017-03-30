@@ -1,0 +1,70 @@
+{
+  "uid" : "ad998f822bf7a979",
+  "name" : "test",
+  "title" : "Outllok Winium",
+  "time" : {
+    "start" : 1483002493412,
+    "stop" : 1483002542774,
+    "duration" : 49362
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "logReporter[Initiated Winium Driver, true]",
+    "title" : "Initiated Winium Driver",
+    "time" : {
+      "start" : 1483002495459,
+      "stop" : 1483002495484,
+      "duration" : 25
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logReporter[Sucessfully clicked on new mail button, true]",
+    "title" : "Sucessfully clicked on new mail button",
+    "time" : {
+      "start" : 1483002524147,
+      "stop" : 1483002524147,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "N7Z0SFY1"
+  }, {
+    "name" : "thread",
+    "value" : "7024@N7Z0SFY1.main"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

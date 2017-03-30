@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20210" started-at="2016-12-26T11:33:41Z" finished-at="2016-12-26T11:34:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20210" started-at="2016-12-26T11:33:41Z" finished-at="2016-12-26T11:34:02Z">
+      <class name="testWin.outlookWinum">
+        <test-method status="PASS" signature="test()[pri:0, instance:testWin.outlookWinum@14a4639]" name="test" duration-ms="20173" started-at="2016-12-26T17:03:41Z" finished-at="2016-12-26T17:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testWin.outlookWinum -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

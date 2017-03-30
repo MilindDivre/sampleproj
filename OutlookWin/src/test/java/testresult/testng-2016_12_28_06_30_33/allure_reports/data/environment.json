@@ -1,0 +1,13 @@
+{
+  "id" : "1957b9713854887",
+  "name" : "Allure Test Pack",
+  "parameter" : [ {
+    "name" : "Report started at",
+    "key" : "report.time.start",
+    "value" : "Wed Dec 28 12:00:55 IST 2016"
+  }, {
+    "name" : "Report finished at",
+    "key" : "report.time.stop",
+    "value" : "Wed Dec 28 12:01:34 IST 2016"
+  } ]
+}

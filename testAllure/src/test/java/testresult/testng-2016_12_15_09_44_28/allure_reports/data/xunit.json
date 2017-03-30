@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1481794372694,
+    "stop" : 1481794384301,
+    "duration" : 11607
+  },
+  "testSuites" : [ {
+    "uid" : "2aca5e4f48ae1565",
+    "name" : "Suite",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1481794372694,
+      "stop" : 1481794384301,
+      "duration" : 11607
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "9f1e066beb2818d0",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481794372748,
+        "stop" : 1481794384086,
+        "duration" : 11338
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

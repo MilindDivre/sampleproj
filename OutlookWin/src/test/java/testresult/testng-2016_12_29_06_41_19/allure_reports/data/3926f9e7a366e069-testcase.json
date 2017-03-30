@@ -1,0 +1,100 @@
+{
+  "uid" : "3926f9e7a366e069",
+  "name" : "test",
+  "title" : "Outllok Winium",
+  "time" : {
+    "start" : 1482993686657,
+    "stop" : 1482993705565,
+    "duration" : 18908
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "logReporter[Initiated Winium Driver, true]",
+    "title" : "Initiated Winium Driver",
+    "time" : {
+      "start" : 1482993688101,
+      "stop" : 1482993688114,
+      "duration" : 13
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logReporter[Sucessfully clicked on new mail button, true]",
+    "title" : "Sucessfully clicked on new mail button",
+    "time" : {
+      "start" : 1482993698039,
+      "stop" : 1482993698039,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logReporter[Entered To , true]",
+    "title" : "Entered To ",
+    "time" : {
+      "start" : 1482993702506,
+      "stop" : 1482993702506,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logReporter[Clicked on Send Button, true]",
+    "title" : "Clicked on Send Button",
+    "time" : {
+      "start" : 1482993704924,
+      "stop" : 1482993704924,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "N7Z0SFY1"
+  }, {
+    "name" : "thread",
+    "value" : "380@N7Z0SFY1.main"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

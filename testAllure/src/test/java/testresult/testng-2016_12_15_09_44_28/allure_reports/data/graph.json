@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "9f1e066beb2818d0",
+    "name" : "testURL",
+    "title" : "Test URL",
+    "time" : {
+      "start" : 1481794372748,
+      "stop" : 1481794384086,
+      "duration" : 11338
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

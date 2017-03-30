@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Demo Suite]">
+  <parameter name="TestFileName" value="PDF_Verification"/>
+  <test name="PDF Verification(failed)">
+    <classes>
+      <class name="com.sqs.test.java.pdfVerification.PDFVerification">
+        <methods>
+          <include name="pdfVerification"/>
+        </methods>
+      </class> <!-- com.sqs.test.java.pdfVerification.PDFVerification -->
+    </classes>
+  </test> <!-- PDF Verification(failed) -->
+</suite> <!-- Failed suite [Demo Suite] -->

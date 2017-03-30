@@ -1,0 +1,158 @@
+{
+  "time" : {
+    "start" : 1481783682934,
+    "stop" : 1481788560724,
+    "duration" : 4877790
+  },
+  "testSuites" : [ {
+    "uid" : "f9b43d285dd283d7",
+    "name" : "Default suite",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1481788351660,
+      "stop" : 1481788368103,
+      "duration" : 16443
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "1c8a1bdfac455df6",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481788351751,
+        "stop" : 1481788367594,
+        "duration" : 15843
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "7ea6f5b49525599",
+    "name" : "Default suite",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1481783808029,
+      "stop" : 1481783859037,
+      "duration" : 51008
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "91acbbe92d307e72",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481783808110,
+        "stop" : 1481783858928,
+        "duration" : 50818
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "uid" : "1de091840ee50e0",
+    "name" : "Default suite",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1481783682934,
+      "stop" : 1481783733819,
+      "duration" : 50885
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "3c27279397a09818",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481783683000,
+        "stop" : 1481783733470,
+        "duration" : 50470
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "uid" : "478149b5e95c3b42",
+    "name" : "Default suite",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1481784174436,
+      "stop" : 1481784194989,
+      "duration" : 20553
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "1c2ef4e6eecc7f9b",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481784174510,
+        "stop" : 1481784194757,
+        "duration" : 20247
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "325243f9960704fe",
+    "name" : "Default suite",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1481788550075,
+      "stop" : 1481788560724,
+      "duration" : 10649
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "b706740e826617ad",
+      "name" : "testURL",
+      "title" : "Test URL",
+      "time" : {
+        "start" : 1481788550153,
+        "stop" : 1481788560517,
+        "duration" : 10364
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

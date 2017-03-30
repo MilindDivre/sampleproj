@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step >> Initiated Winium Driver]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24749" started-at="2016-12-29T06:36:44Z" finished-at="2016-12-29T06:37:08Z">
+    <groups>
+    </groups>
+    <test name="Outlook Winium" duration-ms="24749" started-at="2016-12-29T06:36:44Z" finished-at="2016-12-29T06:37:08Z">
+      <class name="testWin.OutlookWinum">
+        <test-method status="PASS" signature="test()[pri:0, instance:testWin.OutlookWinum@1024134]" name="test" duration-ms="24599" started-at="2016-12-29T12:06:44Z" finished-at="2016-12-29T12:07:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step >> Initiated Winium Driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testWin.OutlookWinum -->
+    </test> <!-- Outlook Winium -->
+  </suite> <!-- Suite -->
+</testng-results>

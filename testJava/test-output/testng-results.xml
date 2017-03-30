@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1235" started-at="2017-03-13T08:42:04Z" finished-at="2017-03-13T08:42:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="192" started-at="2017-03-13T08:42:04Z" finished-at="2017-03-13T08:42:04Z">
+      <class name="testJava.testTestNG">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testJava.testTestNG@10dae16]" name="test1" duration-ms="62" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testJava.testTestNG@10dae16]" name="test2" duration-ms="1" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testJava.testTestNG@10dae16]" name="test3" duration-ms="1" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:testJava.testTestNG@10dae16]" name="test4" duration-ms="1" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:testJava.testTestNG@10dae16]" name="test5" duration-ms="0" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- testJava.testTestNG -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="8" started-at="2017-03-13T08:42:06Z" finished-at="2017-03-13T08:42:06Z">
+      <class name="testJava.testTestNG">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testJava.testTestNG@10dae16]" name="beforeSuite" is-config="true" duration-ms="89" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testJava.tesmain@112e9e6]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:04Z" finished-at="2017-03-13T14:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testJava.tesmain@112e9e6]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testJava.testTestNG@10dae16]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testJava.testTestNG -->
+      <class name="testJava.tesmain">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testJava.tesmain@112e9e6]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testJava.tesmain@112e9e6]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:testJava.tesmain@112e9e6]" name="testCase1" duration-ms="1" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testJava.tesmain@112e9e6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testJava.tesmain@112e9e6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testJava.tesmain@112e9e6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:testJava.tesmain@112e9e6]" name="testCase2" duration-ms="1" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testJava.tesmain@112e9e6]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testJava.tesmain@112e9e6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testJava.tesmain@112e9e6]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-03-13T14:12:06Z" finished-at="2017-03-13T14:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testJava.tesmain -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
